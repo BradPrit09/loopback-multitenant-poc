@@ -1,4 +1,6 @@
 #! /usr/bin/env node
+// Copyright IBM Corp. 2016. All Rights Reserved.
+// Node module: multitenancy
 
 var argv = require('minimist')(process.argv.slice(2));
 var fs = require('fs-extra');

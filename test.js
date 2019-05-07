@@ -1,3 +1,6 @@
+// Copyright IBM Corp. 2016. All Rights Reserved.
+// Node module: multitenancy
+
 'use strict';
 
 var pkg = require('./package.json');
